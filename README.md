@@ -1,3 +1,5 @@
+🧬 Bioinformatic Scripts Repository
+
 Welcome to the Bioinformatics repository! This is a compact yet powerful toolkit of Python scripts designed to perform essential operations on DNA and RNA sequences — tasks that every bioinformatician frequently needs.
 Whether you're analyzing a single gene, preprocessing a genomic dataset, or teaching the next generation of sequence scientists, this collection is meant to simplify routine tasks and make your life easier.
 
